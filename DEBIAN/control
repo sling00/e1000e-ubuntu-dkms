@@ -1,0 +1,10 @@
+Package: e1000e-dkms
+Source: e1000e-dkms
+Version: 3.3.5.3-ubuntu1
+Architecture: all
+Maintainer: Dale Chapman <sling00@gmail.com>
+Installed-Size: 1024
+Depends: dkms (>= 1.95)
+Section: misc
+Priority: optional
+Description: Intel provided e1000e kernel driver in DKMS format
